@@ -1,0 +1,8 @@
+/home/circleci/volca-linkdrop-core/
+/home/circleci/volca-linkdrop-core/src
+/home/circleci/volca-linkdrop-core/src/metadata
+/home/circleci/volca-linkdrop-core/lib
+/home/circleci/volca-linkdrop-core/contracts
+/home/circleci/volca-linkdrop-core/contracts/badges
+/home/circleci/volca-linkdrop-core/contracts/token
+/home/circleci/volca-linkdrop-core/contracts/util

@@ -1,0 +1,13 @@
+{
+  "provider": "http://localhost:8545",
+  "gasprice": 3.1,
+  "ethprice": 133.763850038,
+  "deploygas": 5500000,
+  "xfergas": 1300000,
+  "DEBUG": false,
+  "USE_INFURA": false,
+  "ROOT_FOLDER": "./volca-linkdrop-core",
+  "CRA_FOLDER": "./src",
+  "TESTS_FOLDER": "tests",
+  "CONTRACTS_FOLDER": "contracts"
+}
